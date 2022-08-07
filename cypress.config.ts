@@ -7,5 +7,6 @@ export default defineConfig({
     },
     viewportWidth: 1920,
     viewportHeight: 1024,
+    video: false,
   },
 });
