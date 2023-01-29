@@ -14,5 +14,5 @@
     "include": [
         "**/*.ts",
         "**/*.jsx"
-    ]
+, "cypress/e2e/explre.cy.js"    ]
 }
